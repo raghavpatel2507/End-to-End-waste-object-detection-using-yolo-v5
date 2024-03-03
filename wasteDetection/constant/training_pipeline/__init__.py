@@ -28,6 +28,6 @@ MODEL_TRAINER_DIR_NAME: str = "model_trainer"
 
 MODEL_TRAINER_PRETRAINED_WEIGHT_NAME: str = "yolov5s.pt"
 
-MODEL_TRAINER_NO_EPOCHS: int = 5 #i am run the model 5 epochs you can try more ephochs and more eccuracy.
+MODEL_TRAINER_NO_EPOCHS: int = 1 #i am run the model 5 epochs you can try more ephochs and more eccuracy.
 
 MODEL_TRAINER_BATCH_SIZE: int = 16

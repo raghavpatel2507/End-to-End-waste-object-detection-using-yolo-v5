@@ -161,3 +161,4 @@ cython_debug/
 artifacts/*
 train/*
 valid/*
+yolov5/*
