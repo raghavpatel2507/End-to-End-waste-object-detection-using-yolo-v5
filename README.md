@@ -1,14 +1,46 @@
-# End-to-End-waste-object-detection-using-yolo-v5
+# End-to-end-Waste-Detection-Using-Yolo-v5
 
-# Workflows
-1.constants
+## Workflows
 
-2.entity
+1. constants
+2. entity
+3. components
+4. pipelines
+5. app.py
 
-3.components
 
-4.pipeline
+# How to run?
+### STEPS:
 
-5.app.py
+Clone the repository
 
+```bash
+https://github.com/raghavpatel2507/End-to-End-waste-object-detection-using-yolo-v5.git
+```
+### STEP 01- Create a conda environment after opening the repository
+
+```bash
+conda create -n waste python=3.7 -y
+```
+
+```bash
+conda activate waste
+```
+
+
+### STEP 02- install the requirements
+```bash
+pip install -r requirements.txt
+```
+
+
+```bash
+# Finally run the following command
+python app.py
+```
+
+Now,
+```bash
+open up you local host and port
+```
 
