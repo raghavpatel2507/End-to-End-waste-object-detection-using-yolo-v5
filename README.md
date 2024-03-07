@@ -42,6 +42,12 @@ pip install -r requirements.txt
 python app.py
 ```
 
+# Website Page
+![Screenshot (78)](https://github.com/raghavpatel2507/End-to-End-waste-object-detection-using-yolo-v5/assets/127617393/d040d9c8-3fb4-4d2a-b848-2b126fc8008f)
+![Screenshot (79)](https://github.com/raghavpatel2507/End-to-End-waste-object-detection-using-yolo-v5/assets/127617393/72ba7141-7c03-43b3-8983-b51e44f6bfbd)
+
+
+
 Now,
 ```bash
 open up you local host and port
