@@ -8,6 +8,12 @@
 4. pipelines
 5. app.py
 
+# How to run?
+
+Clone the repository
+
+
+
 
 # How to run?
 ### STEPS:
