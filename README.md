@@ -11,4 +11,10 @@
 
 5.app.py
 
+# How to run?
+
+Clone the repository
+
+
+
 
