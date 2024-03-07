@@ -26,6 +26,9 @@ conda create -n waste python=3.7 -y
 ```bash
 conda activate waste
 ```
+```bash
+yolov5 clone:-git clone https://github.com/ultralytics/yolov5.git
+``bash
 
 
 ### STEP 02- install the requirements
