@@ -4,6 +4,7 @@ notebook==7.0.0a7
 gdown
 flask-cors
 flask
+gunicorn
 
 
 # YOLOv5 requirements
